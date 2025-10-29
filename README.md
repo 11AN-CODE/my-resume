@@ -1,6 +1,6 @@
 ### 📄 My Resume / CV
 
-** Resume Link-https://github.com/11AN-CODE/my-resume/blob/main/Anshika_Clean_resume.pdf**
+**Resume Link-https://github.com/11AN-CODE/my-resume/blob/main/Anshika_Clean_resume.pdf**
 
 ### About Me
 
