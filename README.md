@@ -10,4 +10,4 @@
 
 ### Contact
 * **LinkedIn:** https://www.linkedin.com/in/anshika-s11/
-* **Email:** anshika.23dev100560@vitbhopal.ac.in
+* **Email:** anshika.23bey100560@vitbhopal.ac.in
