@@ -4,7 +4,7 @@
 
 ### About Me
 
-* **Student:** B.Tech in Computer Science and Engineering, specializing in E-commerce Technology.
+* **Student:** 3 rd year B.Tech in Computer Science and Engineering, specializing in E-commerce Technology.
 * **Passion:** Web Development, Data Structures, and building scalable projects. 
 * **Projects:** Check out my other repositories below!
 
